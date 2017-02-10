@@ -1,4 +1,4 @@
-package com.yjt.factory.send;
+package com.yjt.create.factory.send;
 
 /**
  * MailSender

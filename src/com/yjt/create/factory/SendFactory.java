@@ -1,8 +1,8 @@
-package com.yjt.factory;
+package com.yjt.create.factory;
 
-import com.yjt.factory.send.MailSender;
-import com.yjt.factory.send.Sender;
-import com.yjt.factory.send.SmsSender;
+import com.yjt.create.factory.send.MailSender;
+import com.yjt.create.factory.send.Sender;
+import com.yjt.create.factory.send.SmsSender;
 
 /**
  * Provider

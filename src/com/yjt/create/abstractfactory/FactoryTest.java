@@ -1,8 +1,8 @@
-package com.yjt.abstractfactory;
+package com.yjt.create.abstractfactory;
 
-import com.yjt.abstractfactory.provide.Provider;
-import com.yjt.abstractfactory.provide.SendMailFactory;
-import com.yjt.abstractfactory.send.Sender;
+import com.yjt.create.abstractfactory.provide.Provider;
+import com.yjt.create.abstractfactory.provide.SendMailFactory;
+import com.yjt.create.abstractfactory.send.Sender;
 
 /**
  * FactoryTest

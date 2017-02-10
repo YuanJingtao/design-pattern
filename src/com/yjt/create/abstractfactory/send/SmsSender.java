@@ -1,4 +1,4 @@
-package com.yjt.abstractfactory.send;
+package com.yjt.create.abstractfactory.send;
 
 /**
  * SmsSender

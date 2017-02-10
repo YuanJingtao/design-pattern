@@ -1,4 +1,4 @@
-package com.yjt.prototype;
+package com.yjt.create.prototype;
 
 import java.io.*;
 

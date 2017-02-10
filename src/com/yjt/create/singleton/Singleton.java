@@ -1,4 +1,4 @@
-package com.yjt.singleton;
+package com.yjt.create.singleton;
 
 /**
  * Singleton

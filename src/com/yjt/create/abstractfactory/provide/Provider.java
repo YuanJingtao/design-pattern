@@ -1,6 +1,6 @@
-package com.yjt.abstractfactory.provide;
+package com.yjt.create.abstractfactory.provide;
 
-import com.yjt.abstractfactory.send.Sender;
+import com.yjt.create.abstractfactory.send.Sender;
 
 /**
  * Provider
