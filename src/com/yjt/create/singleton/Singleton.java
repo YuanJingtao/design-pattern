@@ -2,7 +2,7 @@ package com.yjt.create.singleton;
 
 /**
  * Singleton
- * a>A、B线程同时进入了第一个if判断
+ * a>Note、B线程同时进入了第一个if判断
  * b>A首先进入synchronized块，由于instance为null，所以它执行instance = new Singleton();
  * c>由于JVM内部的优化机制，JVM先画出了一些分配给Singleton实例的空白内存，并赋值给instance成员（注意此时JVM没有开始初始化这个实例），然后A离开了synchronized块。
  * d>B进入synchronized块，由于instance此时不是null，因此它马上离开了synchronized块并将结果返回给调用该方法的程序。
